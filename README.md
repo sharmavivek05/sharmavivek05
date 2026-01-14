@@ -1,11 +1,16 @@
 ## Hi, I'm Vivek 👋
 
-📊 Data Analytics Enthusiast  
+📊 Aspiring Data Analyst  
 🐍 Python | SQL | Excel | Power BI  
-📈 Love finding insights from data  
+📈 Passionate about transforming data into meaningful insights  
 
-🔹 Currently learning: Advanced SQL & Visualization  
+🔹 Currently learning: Advanced SQL & Data Visualization  
 🔹 Career goal: Data Analyst  
 
-Connect with me:
-- LinkedIn: your-link
+### What I work on:
+- Data cleaning & analysis using Python  
+- SQL queries for business problems  
+- Dashboard creation in Power BI / Excel  
+
+### Connect with me:
+- LinkedIn: (add your link here)
